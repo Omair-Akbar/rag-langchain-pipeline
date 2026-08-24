@@ -1,0 +1,13 @@
+langchain
+langchain-openai
+langchain-mistralai
+chromadb
+sentence-transformers
+pypdf
+unstructured
+beautifulsoup4
+tiktoken
+python-dotenv
+fastapi
+streamlit
+tqdm
